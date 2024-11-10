@@ -3,7 +3,7 @@
 
 ## Документация
 ### Research-документ: 
-(скоро будет ссылка)
+https://docs.google.com/document/d/1dpmn3FAUjGGXwAvChWynRX6clQMNByylbt7KWV0KsrM/edit?usp=sharing
 
 ### Команда:
 1. Ротова Дарья
