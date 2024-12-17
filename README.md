@@ -2,8 +2,8 @@
 Репозиторий для проекта по ВАРКТ команды "Система 1" группы 113.
 
 ## Документация
-### Research-документ: 
-https://docs.google.com/document/d/1dpmn3FAUjGGXwAvChWynRX6clQMNByylbt7KWV0KsrM/edit?usp=sharing
+### Отчет, презентация, видео с полётом: 
+(click)
 
 ### Команда:
 1. Ротова Дарья
