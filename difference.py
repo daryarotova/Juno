@@ -53,7 +53,7 @@ solution = solve_ivp(rocket_equations, [0, time_of_flight], initial_conditions, 
 altitude_model = solution.y[0] // 30 # Высота в км
 velocity_model = solution.y[1] // 3 # Скорость в км/ч
 
-# Время в секундах
+# Время в минутах
 time_model = solution.t // 3.5
 
 # Загрузка данных из CSV-файла KSP
@@ -70,7 +70,7 @@ plt.figure(figsize=(12, 8))
 plt.subplot(2, 1, 1)
 plt.plot(time_model, altitude_model, label='Модель высоты (км)', color='orange')
 plt.plot(time_ksp, altitude_ksp, label='KSP высота (км)', color='green')
-plt.xlabel('Время (ч)')
+plt.xlabel('Время (мин)')
 plt.ylabel('Высота (км)')
 plt.title('График высоты ракеты')
 plt.grid()
@@ -80,7 +80,7 @@ plt.legend()
 plt.subplot(2, 1, 2)
 plt.plot(time_model, velocity_model, label='Модель скорости (км/ч)', color='red')
 plt.plot(time_ksp, velocity_ksp, label='KSP скорость (км/ч)', color='blue')
-plt.xlabel('Время (ч)')
+plt.xlabel('Время (мин)')
 plt.ylabel('Скорость (км/ч)')
 plt.title('График скорости ракеты')
 plt.grid()
