@@ -4,7 +4,7 @@
 ## Документация
 
 ### Research Doc:
-https://docs.google.com/document/d/1ev0wM0U7OhS435qZuSDBszZNyvN14wFR/edit?usp=drive_link&ouid=102824369173641022241&rtpof=true&sd=true
+https://docs.google.com/document/d/13lF1_OLWIY8PUwWAdwoGABPnL7TUpglA/edit?usp=drive_link&ouid=102824369173641022241&rtpof=true&sd=true
 ### Видеоотчет:
 
 ### Презентация:
