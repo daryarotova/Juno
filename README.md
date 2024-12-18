@@ -6,7 +6,7 @@
 ### Research Doc:
 https://docs.google.com/document/d/13lF1_OLWIY8PUwWAdwoGABPnL7TUpglA/edit?usp=drive_link&ouid=102824369173641022241&rtpof=true&sd=true
 ### Видеоотчет:
-
+https://drive.google.com/file/d/1-rqeYBURT7sUUIC4PusoS9MQp8iC3reP/view?usp=drive_link
 ### Презентация:
 https://docs.google.com/presentation/d/1D5sMmflDiFTHSF9bbMW-YCCS7fK_mfdw/edit?usp=drive_link&ouid=102824369173641022241&rtpof=true&sd=true
 ### Видео полёта:
