@@ -8,7 +8,7 @@ https://docs.google.com/document/d/13lF1_OLWIY8PUwWAdwoGABPnL7TUpglA/edit?usp=dr
 ### Видеоотчет:
 https://drive.google.com/file/d/1-rqeYBURT7sUUIC4PusoS9MQp8iC3reP/view?usp=drive_link
 ### Презентация:
-https://docs.google.com/presentation/d/1D5sMmflDiFTHSF9bbMW-YCCS7fK_mfdw/edit?usp=drive_link&ouid=102824369173641022241&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1Yq434z272HYt3s-BEaTd9ODTQ2d-TRdB/edit?usp=drive_link&ouid=102824369173641022241&rtpof=true&sd=true
 ### Видео полёта:
 https://drive.google.com/file/d/1H9JDli0e9WGGW64dJoz-NJlm3lFXTIz2/view?usp=drive_link
 
